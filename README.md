@@ -1,1 +1,1 @@
-# MERN-Full-Stack-App-Demonstration
+# Full Stack Social Media Web Application
